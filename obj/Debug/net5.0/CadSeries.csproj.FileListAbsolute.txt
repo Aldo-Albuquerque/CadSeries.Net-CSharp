@@ -1,0 +1,16 @@
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.csproj.AssemblyReference.cache
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.AssemblyInfoInputs.cache
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.AssemblyInfo.cs
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.exe
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.deps.json
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.runtimeconfig.json
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.runtimeconfig.dev.json
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.dll
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\ref\CadSeries.dll
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\bin\Debug\net5.0\CadSeries.pdb
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.dll
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\ref\CadSeries.dll
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.pdb
+C:\Users\Aldo Albuquerque\Downloads\CadSeries\obj\Debug\net5.0\CadSeries.genruntimeconfig.cache
